@@ -3,4 +3,4 @@ from db_connect import initFirebase
 
 
 
-clawerMosPointItem()
+# clawerMosPointItem()
